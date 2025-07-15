@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2F4aXY3MzZ1NmJneDhlM240dGl6N283bjRuNXVrcjBsMnlrbzRkbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT4uQ7GOiPdcdV7ies/giphy.gif" width="800"/> </div> <h1 align="center">Hey There! I'm Jafet 👋🏻</h1> <h3 align="center">Full-stack developer blending creativity + code, exploring how AI can make life better for everyone</h3> <div align="center">
+<div align="center"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2F4aXY3MzZ1NmJneDhlM240dGl6N283bjRuNXVrcjBsMnlrbzRkbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT4uQ7GOiPdcdV7ies/giphy.gif" width="800"/> </div> <h1 align="center">Hey There! I'm Jafet 👋🏻</h1> <h3 align="center">Full-stack developer exploring how AI can make life better for everyone</h3> <div align="center">
 🚀 Currently Working On
 StockAI - AI-powered financial education tool
 
@@ -6,10 +6,10 @@ StockAI - AI-powered financial education tool
 Advanced LLM architectures • Vector databases • Real-time trading algorithms
 
 🎯 What Drives Me
-Building AI-driven solutions for developers and investors • Open-source collaboration • Financial tech innovation
+Burning passion for planning and development • Open-source collaboration • Tech innovation
 
 💭 Let's Talk About
-LLMs & deep learning • AI trends • How Formula 1 racing sharpens problem-solving • That moment when step 10 of your plan actually works
+LLMs & deep learning • AI trends • PC gaming
 
 </div>
 <h3 align="center">🛠️ Tech Stack</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,flutter,dart,cpp,mongodb,tailwind,git" /> </p>
